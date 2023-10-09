@@ -28,7 +28,7 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+N/A
 
 ## Video Demo
 
@@ -45,7 +45,7 @@ GIF created with Giphy
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+NN/A
 
 ## License
 
