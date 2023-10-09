@@ -10,7 +10,7 @@ Time spent: 6 hours spent in total
 
 CodeMath is an android app that Calculates you tip.
 
-If I had to describe this project in three (3) emojis, they would be:  money,money,money
+If I had to describe this project in three (3) emojis, they would be:💵🍽️💳
 ## Application Features
 
 <!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
@@ -45,7 +45,7 @@ GIF created with Giphy
 
 ## Notes
 
-NN/A
+N/A
 
 ## License
 
